@@ -1,7 +1,5 @@
 
-  # Marketplace Platform Development
-
-  This is a code bundle for Marketplace Platform Development. The original project is available at https://www.figma.com/design/v3aQBFZFsvUaNqIhbZ96sY/Marketplace-Platform-Development.
+  # Update README ให้หน่อย
 
   ## Running the code
 
